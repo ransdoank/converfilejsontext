@@ -20,9 +20,9 @@ Default is Plaintext
 contact +62823 2090 2008
 
 Options:
-  -V, --version   output the version number
-  -c, --c <type>  is target to convert
-  -o, --o <type>  is target output
-  -t, --t <type>  output extension is Plaintext or JSON
-  -r, --r <type>  rename target output
-  -h, --help      display help for command
+- -V, --version   output the version number
+- -c, --c <type>  is target to convert
+- -o, --o <type>  is target output
+- -t, --t <type>  output extension is Plaintext or JSON
+- -r, --r <type>  rename target output
+- -h, --help      display help for command
